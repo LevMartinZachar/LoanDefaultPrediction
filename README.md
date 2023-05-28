@@ -27,3 +27,12 @@ For further evidence of a working proof of concept, the same prediction (same mo
 In order to complete this proof of concept, an UI in the Angular web app needs to be implemented processing user input, mapping it and scaling it (using saved normalization values from train data) to be consequently used as payload for the request towards the `predict-loan` endpoint.
 
 The response can then be enriched via the explainability method provided by the PredictionService, which the endpoint may use.
+
+# Brief report on model choice, architecture of app, deployment strategy, and monitoring system
+Upon reviewing simmilar models trained on the same dataset, I came to the conclusion that feed-forward neural networks work better than XGBoost or RandomForest algorithm. (Achieved simmilar results with less features) If not for time constraints, a rigorous comparison would be made of all the model options.
+
+The UI was to be implemented using the Angular JavaScript framework, to allow production ready and scalable application in the future.
+
+Web app would be typically deployed to Firebase, and the model is deployed to Vertex AI service, which allows for seamless versioning, and allows for continuous rollouts of different versions of the models.
+
+The monitoring system is tied to the deployment environments, where both Firebase and Vertex AI is able to provide thorough logging/monitoring capabilities.
