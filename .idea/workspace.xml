@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba5144b-d948-477e-a06e-d45bb7e409cf" name="Default Changelist" comment="" />
+    <list default="true" id="0ba5144b-d948-477e-a06e-d45bb7e409cf" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/raw-data" />
     </key>
@@ -97,8 +104,16 @@
       <workItem from="1685095642660" duration="23550000" />
       <workItem from="1685141281254" duration="1998000" />
       <workItem from="1685174124411" duration="38566000" />
-      <workItem from="1685261918192" duration="3600000" />
+      <workItem from="1685261918192" duration="4465000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1685270248771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685270248771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +134,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/loan-prediction-ui" />
     </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1684792984356">
