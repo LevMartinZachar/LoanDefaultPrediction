@@ -1,0 +1,12 @@
+venv/
+untitled_project/
+loan-prediction-ui/node_modules
+loan-prediction-ui/.angular
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

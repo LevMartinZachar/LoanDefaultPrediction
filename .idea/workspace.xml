@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ba5144b-d948-477e-a06e-d45bb7e409cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="5b880c7d-1f29-4796-872a-185b7d686e86" />
+  <component name="ProjectId" id="2QAOOmLVmPGhgR3QVSfolbu2KKg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/raw-data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LoanDefaultPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba5144b-d948-477e-a06e-d45bb7e409cf" name="Default Changelist" comment="" />
+      <created>1684792889184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684792889184</updated>
+      <workItem from="1684792897082" duration="6211000" />
+      <workItem from="1684880558960" duration="679000" />
+      <workItem from="1684927646488" duration="7805000" />
+      <workItem from="1684938387356" duration="15730000" />
+      <workItem from="1684955915038" duration="156000" />
+      <workItem from="1684973559360" duration="4592000" />
+      <workItem from="1685014734569" duration="3477000" />
+      <workItem from="1685018418449" duration="1599000" />
+      <workItem from="1685021398174" duration="4659000" />
+      <workItem from="1685055845548" duration="3660000" />
+      <workItem from="1685095642660" duration="23550000" />
+      <workItem from="1685141281254" duration="1998000" />
+      <workItem from="1685174124411" duration="38566000" />
+      <workItem from="1685261918192" duration="3600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/loan-prediction-ui" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1684792984356">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.999@0.27.1920.999" timestamp="1684792984356" />
+    <state x="110" y="127" width="1720" height="799" key="DiffContextDialog" timestamp="1685270237257">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="110" y="127" width="1720" height="799" key="DiffContextDialog/0.27.1920.999@0.27.1920.999" timestamp="1685270237257" />
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom" timestamp="1684799111483">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.bottom/0.27.1920.999@0.27.1920.999" timestamp="1684799111483" />
+    <state width="1874" height="258" key="GridCell.Tab.0.center" timestamp="1684799111482">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.center/0.27.1920.999@0.27.1920.999" timestamp="1684799111482" />
+    <state width="1874" height="258" key="GridCell.Tab.0.left" timestamp="1684799111481">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.left/0.27.1920.999@0.27.1920.999" timestamp="1684799111481" />
+    <state width="1874" height="258" key="GridCell.Tab.0.right" timestamp="1684799111483">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="1874" height="258" key="GridCell.Tab.0.right/0.27.1920.999@0.27.1920.999" timestamp="1684799111483" />
+    <state x="449" y="161" width="1022" height="737" key="SettingsEditor" timestamp="1685269499044">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state x="449" y="161" width="1022" height="737" key="SettingsEditor/0.27.1920.999@0.27.1920.999" timestamp="1685269499044" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1684932941141">
+      <screen x="0" y="27" width="1920" height="999" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.27.1920.999@0.27.1920.999" timestamp="1684932941141" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LoanDefaultPrediction$main.coverage" NAME="main Coverage Results" MODIFIED="1684793001640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<div>
+  <h2>Loan info form:</h2>
+  <div class="loan-form" formGroupName="loanForm">
+    <div class="left-col">
+      <label>Loan amount: </label>
+      <input type="number" formControlName="loanAmnt">
+
+      <label>Last payment amount: </label>
+      <input type="number" formControlName="lastPymntAmnt">
+
+      <label>Interest rate: </label>
+      <input type="number" formControlName="intRate">
+
+      <label>Annual income: </label>
+      <input type="number" formControlName="annualInc">
+
+      <label>DTI: </label>
+      <input type="number" formControlName="dti">
+
+      <label>Year the loan was issued: </label>
+      <input type="number" formControlName="issueD">
+    </div>
+    <div class="right-col">
+      <label>Loan amount: </label>
+      <input type="number" formControlName="loanAmnt">
+
+      <label>Last payment amount: </label>
+      <input type="number" formControlName="lastPymntAmnt">
+
+      <label>Interest rate: </label>
+      <input type="number" formControlName="intRate">
+
+      <label>Annual income: </label>
+      <input type="number" formControlName="annualInc">
+
+      <label>DTI: </label>
+      <input type="number" formControlName="dti">
+
+      <label>Year the loan was issued: </label>
+      <input type="number" formControlName="issueD">
+    </div>
+  </div>
+</div>
+
+<button (click)="sendReq()">Send req</button>
